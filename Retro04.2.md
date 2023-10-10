@@ -42,7 +42,6 @@ Retro 10/10/2023
 				<li>- Sintesis del trabajo</li>
 				<li>- Indice gral</li>
 				<ul> <li><strong> CAPITULO 1</strong></li>
-
 					- Introduccion
 						- Democracia en mexico
 						- Votaciones en Mexico electronico
@@ -51,11 +50,8 @@ Retro 10/10/2023
 							- su importancia
 						- Antecedentes de evote con blockachain
 						- Agregar informacion disponible de CIVEI
-
 						- Objetivos
-
 						-Justificacion - problema
-				
 				<li>- CAPITULO 2</li>
 					-Marco teorico
 						- Blockchain
