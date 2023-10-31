@@ -12,7 +12,7 @@ RETRO 31/10/2023
 			 			<li>Realizar revicion de control de seguridad que encaja en el alcance del TT</li>
 						<li>Consulta a Dr sobre el entregable de este control de seguridad</li>
 						<li>Hacer planeacion de entregables  [contemplar que los entregables sean para los Directores, Sinodales y Profesor de Seguimiento] </li>
-						<li>- Acompletar redaccion del apartado de tecnologias a usar con su justificacion</li>
+						<li>- Acompletar redaccion del apartado de tecnologias a usar con su justificacion a la par del **Estado del arte**</li>
 						<li>- Terminar Diagramas/ Diseño </li>
 						<li>- Iniciar capacitacion en tecnologias y plataformas a usar</li>
 						<li>- Adquirir curso de plataforma a usar</li>
